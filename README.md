@@ -1,5 +1,7 @@
 🧬 PrognosAI — AI-Powered Cervical Cancer Risk Intelligence
 
+👉 **[Try the live app here](https://prognosai-cervical-risk.streamlit.app)**
+
 An AI-powered healthcare data science application combining machine learning, clinical data, and interactive visualisation to predict cervical cancer risk.
 
 📌 Problem Statement
